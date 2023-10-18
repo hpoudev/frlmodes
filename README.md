@@ -13,7 +13,7 @@ Download Link :
 
 - Free shopping without the need to pay real money (after buying each of the packages, exit the game once and log in again so that the purchase is activated for you.)
 
-- It has unlimited and unlimited money
+- It has unlimited money
 
 ------------------------------------------------------------------------------------------------
 
