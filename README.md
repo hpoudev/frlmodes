@@ -5,6 +5,16 @@ including GET, POST requests with files, PATCH and PUT requests. It has minimal 
 (PHP >=5.6, libcurl, gzip) which are available even on the smallest free hostings and has its own simple authorization 
 and cookie support.
 
+<li class="topic-tag-action my-1 mr-1 f6 float-left js-tag-input-tag">
+                        multilingual-websites
+                        <button type="button" class="delete-topic-button f5 no-underline ml-1 js-remove" tabindex="-1">
+                          <svg aria-label="Remove topic" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
+</svg>
+                        </button>
+                        <input type="hidden" name="repo_topics[]" value="multilingual-websites">
+                      </li>
+                      
 ## How to use
 * Copy the [Proxy.php](Proxy.php) script to publicly-accessible folder of a PHP web server (the script is standalone and has no PHP dependencies)
 * Make a cURL request targeting this script
